@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Capsule Render Header Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Natheer%20Alsalehe&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20.NET%20%26%20Angular%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+ 
 
   <br />
 
