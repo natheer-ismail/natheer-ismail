@@ -35,9 +35,6 @@
     <a href="mailto:natheerpersonal616@gmail.com">
       <img src="https://img.shields.io/badge/Email-natheerpersonal616%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/natheer-ismail">
-      <img src="https://img.shields.io/badge/GitHub-natheer--ismail-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
   </p>
 
   <p align="center">
